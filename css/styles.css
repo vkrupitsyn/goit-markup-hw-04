@@ -485,10 +485,6 @@ ul {
   color: var(--accent-color);
 }
 
-.footer-icon {
-  background-color: var(--footer-icon-bg);
-}
-
 .social-net-footer {
   display: flex;
   justify-content: center;
@@ -498,6 +494,10 @@ ul {
 
 .social-net-footer .icon {
   fill: var(--primary-color);
+}
+
+.footer-icon {
+  background-color: var(--footer-icon-bg);
 }
 
 /* Портфоліо */
